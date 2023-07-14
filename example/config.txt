@@ -1,0 +1,2 @@
+Prefix plugins/LinearRegression/example/
+Plugin LinearRegression inputfile imports-85.data outputfile none
